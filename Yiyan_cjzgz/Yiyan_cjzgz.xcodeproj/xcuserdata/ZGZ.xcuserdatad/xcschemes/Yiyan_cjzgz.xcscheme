@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BD8DF8A01CF6980A006BA632"
+               BlueprintIdentifier = "BD5E1C061CF68F09001AAF44"
                BuildableName = "Yiyan_cjzgz.app"
                BlueprintName = "Yiyan_cjzgz"
                ReferencedContainer = "container:Yiyan_cjzgz.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BD8DF8A01CF6980A006BA632"
+            BlueprintIdentifier = "BD5E1C061CF68F09001AAF44"
             BuildableName = "Yiyan_cjzgz.app"
             BlueprintName = "Yiyan_cjzgz"
             ReferencedContainer = "container:Yiyan_cjzgz.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BD8DF8A01CF6980A006BA632"
+            BlueprintIdentifier = "BD5E1C061CF68F09001AAF44"
             BuildableName = "Yiyan_cjzgz.app"
             BlueprintName = "Yiyan_cjzgz"
             ReferencedContainer = "container:Yiyan_cjzgz.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BD8DF8A01CF6980A006BA632"
+            BlueprintIdentifier = "BD5E1C061CF68F09001AAF44"
             BuildableName = "Yiyan_cjzgz.app"
             BlueprintName = "Yiyan_cjzgz"
             ReferencedContainer = "container:Yiyan_cjzgz.xcodeproj">
